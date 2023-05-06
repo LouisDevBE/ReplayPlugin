@@ -1,0 +1,7 @@
+name: Replay
+version: '${project.version}'
+main: me.louisdev.replay.Main
+api-version: 1.19
+prefix: Replay
+authors: [ Louisdhaen ]
+description: Replay plugin
